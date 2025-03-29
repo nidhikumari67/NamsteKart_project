@@ -1,4 +1,4 @@
-# NamsteKart_project
+# Order Data Validation & Automation
 The code performs validation on incoming CSV files containing order data for a fictitious e-commerce platform called NamasteKart. 
 
 
